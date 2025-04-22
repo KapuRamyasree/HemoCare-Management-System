@@ -37,7 +37,7 @@ Git Clone (Command Line)
 If you have Git installed:
 
 cd C:\xampp\htdocs\
-git clone https://github.com/Harsha-096/
+git clone https://github.com/KapuRamyasree/
 
 ✅ This will download the project folder named HemoCare Management System into your local server directory.
 ________________________________________
